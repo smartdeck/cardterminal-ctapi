@@ -1,1 +1,1 @@
-# cardterminal-ctapi
+# terminal-ctapi
